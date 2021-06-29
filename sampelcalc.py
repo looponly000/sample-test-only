@@ -20,7 +20,7 @@ percentt = False
 
 def math_button_pressed():
     if mathsign == '+':
-        button_plus.config(relief=SUNKEN)
+        button_plus.config(relief=RAISED)
     if mathsign == '-':
         button_minus.config(relief=SUNKEN)
     if mathsign == '*':
