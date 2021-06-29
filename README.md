@@ -1,1 +1,1 @@
-gui only
+sample
