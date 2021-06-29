@@ -1,7 +1,7 @@
 from tkinter import *
 from math import *
 dsdadadadad
-root = Tk()
+root = Tk()d
 root.title("Calculator")
 root.resizable(width=False, height=False)
 
