@@ -1,1 +1,1 @@
-# CCC
+gui only
