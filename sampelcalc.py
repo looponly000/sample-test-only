@@ -29,7 +29,7 @@ def math_button_pressed():
         button_division.config(relief=SUNKEN)
 
 def math_button_raised():
-    button_plus.config(relief=RAISED)
+    button_plus.config(relief=RIDGE)
     button_minus.config(relief=RAISED)
     button_multiply.config(relief=RAISED)
     button_division.config(relief=RAISED)
