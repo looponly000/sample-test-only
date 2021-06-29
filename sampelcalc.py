@@ -237,8 +237,8 @@ def percent():
 
 # Widgets
 
-calculation = Entry(root, textvariable = screen, font=("Verdana", 15, ), bd = 12,
-                    insertwidth=4, width=14, justify=RIGHT)
+calculation = Entry(root, textvariable = screen, font=("Verdana", 15, ), bd = 14,
+                    insertwidth=4, width=15, justify=RIGHT)
 calculation.grid(columnspan=4)
 #   Numbers
 button1 = Button(root, text='1', command=lambda: number_pressed(1), bg="gainsboro",
