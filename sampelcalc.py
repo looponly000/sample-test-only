@@ -306,4 +306,9 @@ button_x = Button(root, text='x^y', command=lambda: x(), bg="gray70",
                   bd=3, padx=6, pady=5, font=("Helvetica", 14))
 button_x.grid(row=1, column=2, sticky=W)
 
+##herehrehrher
+def add_ons(sc):
+    if text="text":
+        if 
+
 root.mainloop()
